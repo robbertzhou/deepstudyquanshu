@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
-
+#dsasdf
 x = np.linspace(-10,10,21)
 x_tf = tf.constant(x,dtype=tf.float32)
 
